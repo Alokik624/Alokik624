@@ -1,4 +1,4 @@
-### Hi there ALOKIK GUPTA👋
+# Hi there! 👋 I’m ALOKIK GUPTA
 
 ## Skills
 Programming Languages:Java, SQL
