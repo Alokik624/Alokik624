@@ -1,5 +1,11 @@
 # Hi there! 👋 I’m ALOKIK GUPTA
 
+## About Me
+Experienced Project Engineer with 2.5 years of expertise in project management and engineering, utilizing agile
+methodology for efficient project delivery. Demonstrated proficiency in managing projects with precision and
+accuracy. Skilled in developing and executing project plans, designing new processes, and monitoring project
+progress effectively
+
 ## Skills
 Programming Languages:Java, SQL
 
