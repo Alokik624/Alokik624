@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there ALOKIK GUPTA👋
 
-<!--
-**Alokik624/Alokik624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Programming Languages:Java, SQL
 
-Here are some ideas to get you started:
+Frameworks : Spring Boot, Hibernate, JUnit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development : HTML, CSS, JavaScript, React
+
+Database: MySQL, Oracle11g, MongoDB
+
+API Development: RESTful APIs, Postman
+
+Tools & Technologies: Git, Maven, Docker, Jenkins
+
+IDE’s: IntelliJ IDEA, Eclipse , VsCode
+
+Other: Log4j/Sl4j, Rally, Agile, SonarLint, SonarQube, Scrum
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
